@@ -4,9 +4,6 @@ t:bin/gamedata.json:200:application/unknown
 t:gameData.json:149:application/unknown
 d:images:0:application/unknown
 i:images/comboBar.png:123:image/png
-i:images/shopSpot_legendary.png:381:image/png
-i:images/shopSpot_legendary_pressed.png:320:image/png
-i:images/shopSpot_pressed.png:228:image/png
 i:images/tabletop_0.png:1120:image/png
 i:images/tabletop_1.png:1054:image/png
 i:images/tabletop_2.png:860:image/png
